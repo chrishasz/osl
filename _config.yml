@@ -1,0 +1,56 @@
+title: Chris Hasz
+email: chrishasz@gmail.com
+description: >-
+  I build Enterprise software teams at SAP SalesCloud, and also open source projects. #EnterpriseTwitter
+baseurl: "/osl"
+url: "https://www.chrishasz.com" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: /images/favicon.jpg
+logo: /images/favicon.jpg
+
+#Social [jekyll-seo-tag]
+social:
+  name: chrishasz
+  links:
+    - https://twitter.com/chrishasz
+    - https://www.linkedin.com/in/chrishasz
+    - https://github.com/chrishasz
+twitter:
+  username: chrishasz
+  card: summary
+
+# Custom Navigation Links
+header_pages:
+  - name : blog.md
+    title : Blog
+    url : /blog
+  - name : spgo.md
+    title : SPGo
+    url : /spgo
+  - name : glob2caml.md
+    title : Glob2Caml
+    url : /glob2caml
+  - name : yaght.md
+    title : yaght
+    url : /yaght
+
+# Blog Config
+show_excerpts: true
+
+#Google Analytics
+google_analytics: UA-138720538-1
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github:  chrishasz
+    linkedin: chrishasz
+    twitter: chrishasz
+    rss: rss
+
+# Build settings
+markdown: kramdown
+remote_theme: chrishasz/yaght

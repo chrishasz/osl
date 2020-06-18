@@ -1,0 +1,25 @@
+- title: General
+  name: general.md
+  subfolderitems:
+      title: Configuration Options
+      url: /general/config-options
+- title: Authentication
+  name: authentication.md
+  subfolderitems:
+    - title: ADFS
+      url: /authentication/adfs-authentication
+- title: Commands
+  name: commands.md
+  subfolderitems:
+    - title: Check out the Current File
+      url: /commands/check-out-file
+- title: Advanced Topics
+  name: advancedtopics.md
+  subfolderitems:
+    - title: Working with Multiple Workspaces
+      url: /advanced/multiple-workspacess
+- title: Development
+  name: development.md
+  subfolderitems:
+    - title: Building SPGo locally
+      url: /development/build-locally
