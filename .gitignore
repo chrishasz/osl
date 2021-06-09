@@ -7,7 +7,10 @@ _site/
 # vscode related folders
 .vscode/
 
-#Ruby
+# Ruby
 Gemfile.lock
 .bundle/
 vendor/
+
+# local files
+scratchpad.md
