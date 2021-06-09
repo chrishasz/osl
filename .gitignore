@@ -1,8 +1,13 @@
-.bundle
+# jekyll related files and folders
+_site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-_site
-*.gem
 
+# vscode related folders
 .vscode/
+
+#Ruby
+Gemfile.lock
+.bundle/
+vendor/
