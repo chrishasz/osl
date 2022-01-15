@@ -1,0 +1,42 @@
+toc:
+- title: HumanOps
+  name: humanops.md
+  subfolderitems:
+      title: guardrails
+      url: /humanops/guardrails
+      title: Mental Resiliency
+- title: Communication
+  name: communication.md
+  subfolderitems:
+    - title: Hey! Reach Out!
+      url: /Communication/hey-reach-out
+    - title: Hey!
+    - title: State the Results, then the action
+- title: Strategic Thinking
+  name: strategic-thinking.md
+  subfolderitems:
+    - title: impact
+      url: /strategic-thinking/impact
+- title: Influence
+  name: influence.md
+  subfolderitems:
+    - title: Effective Escalations
+      url: /influence/effective-escalations
+- title: Team Mechanics
+  name: team-mechanics.md
+  subfolderitems:
+    - title: Have a PLAN
+      url: /team-mechanics/have-a-plan
+- title: How Tos
+  description: A series of cheat sheets to help you succeed at work
+  name: how-to.md
+  subfolderitems:
+    - title: Inherit a Team
+      url: /how-to/inherit-a-team
+    - title: Present
+      url: /how-to/present
+    - title: Present
+    - title: Get Ahead
+    - title: Take Responsibility for a Mistake
+    - title: Remediate a Sev1
+    - title: Ask for Things
