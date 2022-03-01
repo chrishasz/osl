@@ -17,6 +17,8 @@ toc:
   subfolderitems:
     - title: impact
       url: /strategic-thinking/impact
+    - title: Don't Confuse Leadership with Decision Making
+      url: /strategic-thinking/decision-making
 - title: Influence
   name: influence.md
   subfolderitems:
@@ -27,6 +29,13 @@ toc:
   subfolderitems:
     - title: Have a PLAN
       url: /team-mechanics/have-a-plan
+- title: Anti-Patterns
+  name: anti-patterns.md
+  subfolderitems:
+    - title: Confusing Decision Making with Leadership
+      url: /anti-patterns/decision-making
+    - title: The Anti-Autonomy of Status Meetings
+      url: /anti-patterns/status-meetings
 - title: How Tos
   description: A series of cheat sheets to help you succeed at work
   name: how-to.md
@@ -35,8 +44,12 @@ toc:
       url: /how-to/inherit-a-team
     - title: Present
       url: /how-to/present
-    - title: Present
     - title: Get Ahead
     - title: Take Responsibility for a Mistake
     - title: Remediate a Sev1
     - title: Ask for Things
+- title: Activities
+  description: Positive Activities to Participate in with your Team
+  name: actvities.md
+    - title: Team Debugging Session
+    - title: Observability Reviews
