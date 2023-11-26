@@ -2,9 +2,9 @@ toc:
 - title: HumanOps
   name: humanops.md
   subfolderitems:
-      title: guardrails
+    - title: guardrails
       url: /humanops/guardrails
-      title: Mental Resiliency
+    - title: Mental Resiliency
 - title: Communication
   name: communication.md
   subfolderitems:
@@ -50,6 +50,7 @@ toc:
     - title: Ask for Things
 - title: Activities
   description: Positive Activities to Participate in with your Team
-  name: actvities.md
+  name: activities.md
+  subfolderitems:
     - title: Team Debugging Session
     - title: Observability Reviews

@@ -2,9 +2,9 @@ title: Chris Hasz
 subtitle: OSL
 email: chrishasz@gmail.com
 description: >-
-  I build Enterprise software teams, and also open source projects. #EnterpriseTwitter
+  I build Enterprise software teams, and also open source software.
 baseurl: "/osl"
-url: "https://www.chrishasz.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.chrishasz.com"
 favicon: /images/favicon.jpg
 logo: /images/favicon.jpg
 
